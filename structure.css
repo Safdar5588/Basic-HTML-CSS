@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+}
+.maincountaner{
+    background-color:rgb(170, 119, 180);
+    width: 700px;
+    padding: 0.02px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.countaner{
+    background-image: url(PSJSJ);
+    background-repeat: no-repeat;
+    background-position: right;
+    font-size: 50px ;
+    text-align: center;
+    padding-top: 16px;
+    color: white;
+}
+.mid{
+    border: 2px solid orange;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding:5px;
+    font-size: 25px;
+    color: white;
+}
+.circle1{
+    border:2px solid black;
+    border-radius: 200px;
+    height: 320px;
+    width: 350px;
+    padding-top: 30px;
+    background-color: rgb(165, 97, 42);
+    margin-left: 50px;
+    float: left;
+}
+.text{
+    color: white;
+    font-size: 50px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.textleft{
+    color: white;
+    float: left;
+    margin-left: 25px;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+.textright{
+    color: white;
+    float: right;
+    margin-right: 25px;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+.end{
+    color: white;
+    margin-top: 200px;
+    margin-left: 110px;
+    text-transform: uppercase;
+}
+.center{
+    margin-left: 35px;
+}
+.double{
+    border:2px solid black;
+    border-radius: 200px;
+    height: 320px;
+    width: 350px;
+    padding-top: 30px;
+    background-color: rgb(65, 42, 165);
+    margin-left: 280px;
+    margin-top: 30px;
+    opacity: 0.7;
+}
+.stext{
+    text-transform:uppercase ;
+    color: white;
+    font-size: 50px;
+    margin-left:20px;
+}
+.sright{
+    text-transform: uppercase;
+    color: white;
+    float: right;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+.send{
+    color: white;
+    text-transform: uppercase;
+    margin-top: 200px;
+}
+.ending{
+    margin-left: 40px;
+}
+.radius{
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    padding:5px;
+    font-size: 25px;
+    color: white;
+}
+.margin{
+    margin-left: 20px;
+}
+.margin2{
+    margin-left: 20px;
+}
